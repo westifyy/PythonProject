@@ -1,0 +1,50 @@
+[
+    {
+        "category": "Sport",
+        "description": "Buy milk, eggs and bread",
+        "id": 123,
+        "status": "pending"
+    },
+    {
+        "category": "Health",
+        "description": "Bathing",
+        "id": 124,
+        "status": "pending"
+    },
+    {
+        "category": "Gaming",
+        "description": "Play video games for 2h",
+        "id": 125,
+        "status": "pending"
+    },
+    {
+        "category": "Social Life",
+        "description": "Hangout with friends",
+        "id": 126,
+        "status": "pending"
+    },
+    {
+        "category": "Gaming",
+        "description": "Buy Gaming PC",
+        "id": 127,
+        "status": "pending"
+    },
+    {
+        "category": "Sport",
+        "description": "Play football",
+        "id": 129,
+        "status": "pending"
+    },
+    {
+        "category": "Sport",
+        "description": "Play basketball",
+        "id": 130,
+        "status": "pending"
+    },
+    {
+        "category": "Gaming",
+        "description": "Play super mario",
+        "id": 131,
+        "status": "completed"
+    }
+]
